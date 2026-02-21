@@ -1,6 +1,6 @@
 # MBDRL
 
-This repository contains the code and minimal instructions to reproduce the experiments reported in our AISTATS paper **"AISTATS-2026-265"**.
+This repository contains the code and minimal instructions to reproduce the experiments reported in our paper.
 
 ## Requirements
 This code is built upon PlatEMO v4.2 (https://github.com/BIMK/PlatEMO) to be installed on MATLAB 2023 and above. It also requires Python 3.9, and the Causal Learner: A Toolbox for Causal Structure and Markov Blanket Learning for MB Learning (https://github.com/z-dragonl/Causal-Learner). <br />
