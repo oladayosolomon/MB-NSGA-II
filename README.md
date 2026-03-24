@@ -1,6 +1,7 @@
 # MBDRL
 
-This repository contains the code and minimal instructions to reproduce the experiments reported in our paper.
+
+Code repository for "Measuring Intrinsic Dimension of Multiobjective Landscapes and Dimensionality-Reduced Neuroevolution of Deep Reinforcement Learning" by Ajani et al., GECCO 2026
 
 ## Requirements
 This code is built upon PlatEMO v4.2 (https://github.com/BIMK/PlatEMO) to be installed on MATLAB 2023 and above. It also requires Python 3.9, and the Causal Learner: A Toolbox for Causal Structure and Markov Blanket Learning for MB Learning (https://github.com/z-dragonl/Causal-Learner). <br />
