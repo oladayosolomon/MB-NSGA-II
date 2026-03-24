@@ -8,8 +8,8 @@ This code is built upon PlatEMO v4.2 (https://github.com/BIMK/PlatEMO) to be ins
 ## Running Experiments
 Clone this repository and install the packages specified in requirements.txt in a Python environment<br />
 ```
-git clone https://github.com/xxxxxxxxx/MB-NSGA_II/
-cd MB-NSGA_II
+git clone https://github.com/xxxxxxxxx/MB-NSGA-II/
+cd MB-NSGA-II
 pip install -r requirements.txt
 ```
 
