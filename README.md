@@ -24,7 +24,7 @@ pyenv("Version",'C:\Users\xxxxxxx\anaconda3\envs\envs_name\python.exe')
 
 Clone the Casual Learner toolbox from (https://github.com/z-dragonl/Causal-Learner) and add its path to MATLAB<br />
 
-Run the Platemo.m file from MATLAB and navigate to the experiment mode on the GUI. You can reproduce the experiments in this work by using the settings file in .\MB-NSGA_II\Data
+Run the Platemo.m file from MATLAB and navigate to the experiment mode on the GUI. You can reproduce the experiments in this work by using the settings file in .\MB-NSGA-II\Data
 
 
 
